@@ -1,59 +1,44 @@
-This repository contains a complete web page project developed using HTML5 and CSS3, created during Chapter 17 of the Curso em Vídeo course (2024).
+Este repositório contém um projeto completo de página web desenvolvido com HTML5 e CSS3, criado durante o Capítulo 17 do curso do Curso em Vídeo (2024).
 
-The project was built by following the instructor’s step-by-step guidance, with the objective of understanding how to structure, style, and organize a 
-full web page using front-end fundamentals.
+O projeto foi construído a partir do acompanhamento passo a passo das aulas, com o objetivo de compreender na prática como estruturar, estilizar e organizar uma página web utilizando fundamentos de front-end.
 
+📌 Objetivo do Projeto
 
- 📌 Project Purpose
-The main purpose of this project is to:
-- Apply HTML5 and CSS3 concepts in a complete and cohesive page;
-- Understand real-world file organization;
-- Practice layout, styling, and visual consistency;
-- Consolidate front-end fundamentals through guided implementation.
+Este projeto teve como principais objetivos:
 
-📚 Context
-- Course: HTML5 & CSS3 – Curso em Vídeo;
-- Chapter: 17;
-- Learning approach: Guided, step-by-step development with the instructor;
-- Year: 2024.
+Aplicar conceitos de HTML5 e CSS3 em uma página completa;
+Entender a organização de arquivos em um projeto real;
+Praticar layout, estilização e consistência visual;
+Consolidar fundamentos de front-end por meio de implementação guiada.
+📚 Contexto
+Curso: HTML5 e CSS3 – Curso em Vídeo
+Capítulo: 17
+Abordagem: Desenvolvimento guiado passo a passo com o instrutor
+Ano: 2024
 
-This is an **educational project**, developed as part of a structured learning process.
+Este é um projeto educacional, desenvolvido como parte de um processo estruturado de aprendizagem.
 
-🎯 Concepts Practiced
+🎯 Conceitos Praticados
+Estrutura semântica em HTML;
+Organização de layout de páginas;
+Estilização com CSS (cores, tipografia e espaçamento);
+Princípios básicos de responsividade;
+Separação entre estrutura (HTML) e apresentação (CSS).
+🧠 Resultados de Aprendizagem
 
-Semantic HTML structure;
+Com este projeto, foi possível:
 
-Page layout and organization;
-
-CSS styling (colors, typography, spacing);
-
-Basic responsive layout principles;
-
-Separation of structure (HTML) and presentation (CSS).
-
-🧠 Learning Outcomes
-
-Through this project, I was able to:
-
-Understand how a complete web page is structured;
-
-Apply CSS styling in a real project context;
-
-Improve code organization and readability;
-
-Gain confidence in building static web pages.
-
-📌 Notes
-
-This project reflects a guided learning experience, not an original design or independent project.
-
-The focus was on learning and applying best practices, not on customization or creativity.
-
-No frameworks or JavaScript were used, in order to strengthen core HTML and CSS fundamentals.
-
-👨‍💻 Author
+Compreender a estrutura de uma página web completa;
+Aplicar CSS em um contexto prático;
+Melhorar a organização e legibilidade do código;
+Ganhar confiança na construção de páginas estáticas.
+📌 Observações
+Este projeto foi desenvolvido de forma guiada, não sendo um design autoral;
+O foco está no aprendizado e na aplicação de boas práticas;
+Não foram utilizados frameworks ou JavaScript, priorizando o domínio dos fundamentos.
+👨‍💻 Autor
 
 Kevin Valone Brilhante
-Software Engineering student at UMC
-Studying programming logic with Java and web fundamentals (HTML & CSS)
-Seeking a software development internship.
+Estudante de Engenharia de Software – UMC
+Focado em Java, lógica de programação e fundamentos web
+Em busca de oportunidade de estágio em desenvolvimento
